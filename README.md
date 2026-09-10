@@ -1,16 +1,16 @@
-## Hi there 👋
+# hey, I'm casey (@caseyops913) 👋
 
-<!--
-**caseyops913/caseyops913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student based in Tokyo. Currently spending most of my time on systems concepts, coursework, and small scripts to automate my setup.
 
-Here are some ideas to get you started:
+### What I'm doing
+- Writing C++ and Java for coursework, Python for quick tools
+- Daily driving Linux, learning internals and debugging with GDB
+- Building toy projects around data structures and CLI utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- **Languages:** Python, C++, Java, Bash
+- **Environment:** Linux, Git, Neovim, Make
+
+### Reach out
+- Discord: caseyops
+- Email: caseyops913@gmail.com
